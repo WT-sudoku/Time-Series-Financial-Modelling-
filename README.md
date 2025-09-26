@@ -1,10 +1,10 @@
-# AIB552 GBA JULY 2025 – GRU-Based Upper-Band Forecasting
-**Notebook:** `AIB552_GBA_JULY2025_Group_01-9.ipynb`  
+# GRU-Based Upper-Band Forecasting
+**Notebook:** ``  
 **Kernel:** Python 3  
 **Language:** python 
 
 ## Project Overview
-This repository contains the notebook used for the AIB552 Deep Learning & Neural Networks Group-Based Assignment (July 2025). The project implements a time-series forecasting pipeline to predict an *upper band* for the next-day High price of an equity using a GRU-based neural network. The modeling approach targets the next-day Close→High ratio (often in log space), with training via a quantile/pinball loss at a high quantile (e.g., τ=0.90) to estimate an upper bound. Feature engineering can include exogenous signals (e.g., index levels, volatility proxies), and model blending weights are selected via rolling-origin validation focused on recent slices of history.
+This repository contains the notebook used for the mini-project implements a time-series forecasting pipeline to predict an *upper band* for the next-day High price of an equity using a GRU-based neural network. The modeling approach targets the next-day Close→High ratio (often in log space), with training via a quantile/pinball loss at a high quantile (e.g., τ=0.90) to estimate an upper bound. Feature engineering can include exogenous signals (e.g., index levels, volatility proxies), and model blending weights are selected via rolling-origin validation focused on recent slices of history.
 
 ## Notebook Structure (Headings)
 The following headings were detected in the notebook (first 60 shown):
