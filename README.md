@@ -1,15 +1,13 @@
-# AIB552_GBA_JULY2025_GROUP_01
+# GRU-Time-Series-Financial-Modelling
 
 > Auto-generated README based on the project notebook. Edit this file to refine details as needed.
 
 ## Overview
 
-This repository contains the notebook **AIB552_Deep_Learning_&_Neural_Networks_Group_based_Assignment_July_2025_Semester_Group_01.ipynb**, which documents a complete workflow for deep learning & neural networks as part of the AIB552 module.
 Tasks: Computer Vision (CNN), Natural Language Processing (RNN/Transformers). Custom models: KerasSequential. Datasets mentioned: csv, stock. Tech stack: PyTorch, TensorFlow, scikit-learn, pandas, NumPy, Matplotlib.
 
 ## Table of Contents (from the notebook)
 
-- [AIB552_GBA_JULY2025_GROUP_01](#aib552gbajuly2025group01)
 - [Table of Contents (Cell 1):](#table-of-contents-cell-1)
 - [Check GPU availability](#check-gpu-availability)
 - [Enable and Read the content from Drive.](#enable-and-read-the-content-from-drive)
@@ -85,7 +83,6 @@ pip install google math matplotlib numpy os pandas random scikit-learn tensorflo
 
 ## Repository Layout
 
-- `AIB552_Deep_Learning_&_Neural_Networks_Group_based_Assignment_July_2025_Semester_Group_01.ipynb` — main analysis & experiments
 - `README.md` — this file
 
 > If you add scripts (`/src`), data (`/data`), or configs, document them here.
@@ -102,4 +99,4 @@ No license specified yet. Consider adding `LICENSE` (e.g., MIT) to clarify reuse
 
 ## Acknowledgements
 
-This work was prepared for **AIB552 – Deep Learning & Neural Networks** (Singapore University of Social Sciences). Please replace this with your team members and any third-party citations.
+This work was prepared for a mini-project.
